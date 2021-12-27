@@ -1,5 +1,6 @@
-## My name is Lorran Nogueira 🙂
+## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello, My name is Lorran Nogueira i'm brazilian!
 I'm a Software engineer student and I'm deepening my knowledge in front-end development.
+
 
 
 ## knowledge 💡
