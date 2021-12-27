@@ -21,6 +21,7 @@ I'm a Software engineer student and I'm deepening my knowledge in front-end deve
 <a href="https://www.youtube.com/LorranNogueira" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href = "mailto:lorrancontatoo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-  ![Snake animation](https://github.com/rafaballerini/lorran-nogueira/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/lorran-nogueira/readme/blob/output/github-contribution-grid-snake.svg)
+  
  
 </div>
