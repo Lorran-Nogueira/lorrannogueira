@@ -20,7 +20,7 @@ I'm a Software engineer student and I'm deepening my knowledge in front-end deve
 ## Follow me on social media👇
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lorrannogueira/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/devlorran/) 
 <a href="https://www.youtube.com/LorranNogueira" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href = "mailto:lorrancontatoo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 
   ![Snake animation](https://github.com/lorran-nogueira/readme/blob/output/github-contribution-grid-snake.svg)
   
